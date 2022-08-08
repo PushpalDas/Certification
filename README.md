@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<div align="center"><img width="500" height="400" padding-left="60px" src="https://1.bp.blogspot.com/-r0IC5MUtPQg/X58h06D6T0I/AAAAAAAABRU/ePnoketrkG4O_tvR4BGursFbbbXbbzmTACLcBGAsYHQ/s16000/agifcolossalsphere2.gif" /></div>
+<div align="center"><img width="400" height="400" padding-left="60px" src="http://66.media.tumblr.com/de44e84b2898c6ec3fa3f00c729feb29/tumblr_o9s8b3kKwH1s13tcmo1_540.gif" /></div>
 
 <hr>
 
