@@ -5,7 +5,7 @@
 <div align="center">
  
 
-<div align="center"><img width="600" height="450" padding-left="60px" src="https://i.pinimg.com/originals/1d/e9/09/1de909aecaddb74f15ba5c97603a4be6.gif" /></div>
+<div align="center"><img width="500" height="500" padding-left="60px" src="https://c.tenor.com/N78AH88dehkAAAAi/certificate-icon.gif" /></div>
 <div align="center">
 Down below there are certifications I achieved.</div>
 
